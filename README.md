@@ -1,0 +1,3 @@
+# CameraGalleryApp
+
+####### User Permissions allowed
